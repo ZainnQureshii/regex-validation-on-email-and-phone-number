@@ -1,0 +1,9 @@
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\bin\Debug\Regex2.exe.config
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\bin\Debug\Regex2.exe
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\bin\Debug\Regex2.pdb
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\obj\Debug\Regex2.Form1.resources
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\obj\Debug\Regex2.Properties.Resources.resources
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\obj\Debug\Regex2.csproj.GenerateResource.Cache
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\obj\Debug\Regex2.exe
+c:\users\shs\documents\visual studio 2012\Projects\Regex2\Regex2\obj\Debug\Regex2.pdb
+C:\Users\SHS\Documents\Visual Studio 2012\Projects\Regex2\Regex2\obj\Debug\Regex2.csprojResolveAssemblyReference.cache
